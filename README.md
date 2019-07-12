@@ -3,4 +3,5 @@
 ### i like u 
 __not__ **funny** at all
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Inline-style: 
+![alt text](https://en.wikipedia.org/static/images/project-logos/enwiki.png "Logo Title Text 1")
